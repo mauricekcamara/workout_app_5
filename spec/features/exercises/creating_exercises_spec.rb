@@ -7,9 +7,6 @@ RSpec.feature "Creating exercises" do
   end
   
   scenario "With valid input" do
-    
-    
-    
     visit '/'
     
     click_link "My Lounge"
